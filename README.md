@@ -5,10 +5,10 @@
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/swift4-compatible-4BC51D.svg?style=flat" alt="Swift 3 compatible" /></a>
 <a href="https://github.com/Carthage/Carthage"><img src="https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat" alt="Carthage compatible" /></a>
 <a href="https://cocoapods.org/pods/Ahoy"><img src="https://img.shields.io/cocoapods/v/Ahoy.svg" alt="CocoaPods compatible" /></a>
-<a href="https://raw.githubusercontent.com/xmartlabs/Ahoy/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
+<a href="https://raw.githubusercontent.com/arunabhdas/Ahoy/master/LICENSE"><img src="http://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="License: MIT" /></a>
 </p>
 
-By [Xmartlabs SRL](http://xmartlabs.com).
+By [arunabhdas SRL](http://arunabhdas.com).
 
 ## Introduction
 
@@ -87,9 +87,9 @@ Ahoy provides another implementation of the `OnboardingViewController` that has 
 * If you **have a feature request** please **open an issue**.
 * If you **found a bug** or **need help** please **check older issues, [FAQ](#faq) and threads on [StackOverflow](http://stackoverflow.com/questions/tagged/Ahoy) (Tag 'Ahoy') before submitting an issue.**.
 
-Before contribute check the [CONTRIBUTING](https://github.com/xmartlabs/Ahoy/blob/master/CONTRIBUTING.md) file for more info.
+Before contribute check the [CONTRIBUTING](https://github.com/arunabhdas/Ahoy/blob/master/CONTRIBUTING.md) file for more info.
 
-If you use **Ahoy** in your app We would love to hear about it! Drop us a line on [twitter](https://twitter.com/xmartlabs).
+If you use **Ahoy** in your app We would love to hear about it! Drop us a line on [twitter](https://twitter.com/arunabhdas).
 
 ## Examples
 
@@ -114,7 +114,7 @@ pod 'Ahoy', '~> 2.0'
 To install Ahoy, simply add the following line to your Cartfile:
 
 ```ogdl
-github "xmartlabs/Ahoy" ~> 2.0
+github "arunabhdas/Ahoy" ~> 2.0
 ```
 
 ## Author
