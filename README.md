@@ -117,7 +117,10 @@ To install Ahoy, simply add the following line to your Cartfile:
 github "arunabhdas/Ahoy" ~> 2.0
 ```
 
-## Author
+## Maintainer
+
+* [Arunabh Das](https://github.com/arunabhdas)
+## Original Author
 
 * [Mauricio Cousillas](https://github.com/mcousillas6)
 
